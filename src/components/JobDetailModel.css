@@ -1,0 +1,17 @@
+/* JobDetails.css */
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 5px;
+  width: 90%;
+  max-width: 500px; 
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.close-button {
+    float: right;
+    cursor: pointer;
+}
